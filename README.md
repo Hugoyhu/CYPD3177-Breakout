@@ -5,6 +5,8 @@ The board provides a fixed output of 9V1A using the CYPD3177 chipset. It's highl
 
 ![KiCAD Render of PD Board](https://cloud-e45xlmam7-hack-club-bot.vercel.app/05m8a0347_dxo.jpg)
 
+![Schematic](https://github.com/Hugoyhu/CYPD3177-Breakout/blob/main/CYPD3177%20Breakout%20Schematic.png)
+
 The board is more flexible than off-the-shelf PD boards based on chinese chipsets. They usually only have four pins for mounting, but this board is more mechanically sturdy due to the opposing pins on either side of the board.
 
 You can also modify the design to add switches to configure requested voltage/current during power-on.
