@@ -3,7 +3,7 @@ Small 2-layer fixed USB-C PD Power Sink with CYPD3177. Breadboard friendly desig
 
 The board provides a fixed output of 9V1A using the CYPD3177 chipset. It's highly flexible, allowing USB-C Charging up to 15W and USB-C PD up to 100W. Unlike many other chips available, it does not require any firmware nor flashing, and power settings are configured with pullup and pulldown resistors. This board is set to 9V @ 1A, to ensure maximum compatibility with most PD-capable bricks. It's very compact, measuring less than 22x32mm with breadboard-friendly mounting, an affordable 2-layer design, and single side SMD component placement. 
 
-![KiCAD Render of PD Board](https://cloud-e45xlmam7-hack-club-bot.vercel.app/05m8a0347_dxo.jpg)
+![KiCAD Render of PD Board](https://github.com/Hugoyhu/CYPD3177-Breakout/blob/main/USBCDecoyBoard.jpg)
 
 ![Schematic](https://github.com/Hugoyhu/CYPD3177-Breakout/blob/main/CYPD3177%20Breakout%20Schematic.png)
 
